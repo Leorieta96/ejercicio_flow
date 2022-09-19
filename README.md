@@ -1,4 +1,4 @@
-# Pequeño preyecto 
+# Proyecto flow
 ## Tabla de contenidos
 * [Info general](#info-general)
 * [Tecnologias](#tecnologias)
